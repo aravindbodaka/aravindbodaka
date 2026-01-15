@@ -19,21 +19,29 @@
 ---
 
 ### 🛠️ Skills & Tools
+**Microsoft Power BI Data Analyst Associate (PL-300)**
+• Validated expertise in data modeling, relationships, and star schema design
+• Hands-on experience writing DAX measures, KPIs, and time-intelligence calculations
+• Strong understanding of Power Query for data cleansing and transformation
+• Skilled in building interactive, performance-optimized Power BI dashboards
+• Familiar with report usability, visual best practices, and business-focused storytelling
+🚧 Actively developing a PL-300-aligned Power BI dashboard to demonstrate applied skills
 
-**Languages:** Python, SQL  
-**Cloud & ETL Services:** AWS Glue, S3, Athena, Redshift, Data Pipeline, IAM, CloudWatch, Kinesis, Lake Formation  
-**Data Engineering:** MySQL (Data Modeling, Schema Design, Performance Tuning)  
-**Visualization Tools:** Power BI (DAX, KPIs, Dashboards), Tableau (Storytelling)  
-**DevOps & Deployment:** Git, GitHub, GitHub Pages, CI/CD Pipelines  
-**Tools:** Jupyter Notebook, VS Code, Microsoft Office, Figma  
-**Development Practices:** Agile, Collaborative Development, Git-based Version Control
+**🛠️Additional Technical Skills**
+• Python & SQL for data cleaning, transformation, validation, and analytical querying
+• Cloud data engineering (AWS) supporting scalable data pipelines, storage, querying, and monitoring workflows
+• Relational databases (MySQL) including schema design, data modeling, normalization, indexing, and performance tuning
+• Data visualization (Tableau) for exploratory analysis and dashboard-driven decision support
+• Version control & CI/CD workflows using Git and GitHub for collaborative development and deployment
+• Development tools such as Jupyter Notebook and VS Code for analysis, coding, and documentation
+• Agile development practices emphasizing clean workflows, version control discipline, and team collaboration
 
 ---
 
 ### 📜 Certifications
 
--  **Oracle Cloud Infrastructure 2023 Foundations Certified Associate**  
--  **AWS Certified Data Engineer**  
+-  **PL-300 Certified Power BI Data Analyst** 
+-  **Oracle Cloud Infrastructure 2023 Foundations Certified Associate**   
 -  **HackerRank – 5-Star SQL (Advanced Level Certified)**  
 
 ---
@@ -49,15 +57,6 @@
 - Created a SQL-based logic engine to match candidates with job roles.
 - Applied advanced SQL (joins, subqueries, CASE) for scoring and recommendation.
 - Optimized modular scripts for handling dynamic data loads.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravindbodaka&show_icons=true&theme=github_dark" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aravindbodaka&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
-</p>
 
 ---
 
