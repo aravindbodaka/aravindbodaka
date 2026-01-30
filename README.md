@@ -41,9 +41,9 @@
 ### 📜 Certifications
 
 -  **PL-300 Certified Power BI Data Analyst** 
--  **Oracle Cloud Infrastructure 2023 Foundations Certified Associate**   
 -  **HackerRank – 5-Star SQL (Advanced Level Certified)**  
-
+-  **Databricks for Data Engineering**
+  
 ---
 
 ### 💼 Projects
