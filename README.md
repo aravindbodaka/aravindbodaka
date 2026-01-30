@@ -53,11 +53,6 @@
 - Built stored procedures and triggers in MySQL for automation.
 - Developed interactive Power BI dashboards to monitor supplier costs and stock movement.
 
-#### 💼 Job Notification & Recommendation System
-- Created a SQL-based logic engine to match candidates with job roles.
-- Applied advanced SQL (joins, subqueries, CASE) for scoring and recommendation.
-- Optimized modular scripts for handling dynamic data loads.
-
 ---
 
 ### ➡️ Let's Connect!
